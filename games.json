@@ -1,0 +1,334 @@
+{
+  "buttons": {
+    "button1": {
+      "coinValue": 200,
+      "imageUrl": "https://img.poki-cdn.com/cdn-cgi/image/q=78,scq=50,width=1200,height=1200,fit=cover,f=png/260f3251a55c78a27fd15b9e4d675f88/vectaria-io.png",
+      "link": "http://happymoodplay.blogspot.com/2025/06/vectariaio-amazing-adventure-games.html",
+      "name": "Vectaria.io"
+    },
+    "button2": {
+      "coinValue": 10,
+      "imageUrl": "https://img.poki-cdn.com/cdn-cgi/image/q=78,scq=50,width=1200,height=1200,fit=cover,f=png/d71774c21b404e43ad2ed31bf81befe9/minefun-io.png",
+      "link": "http://happymoodplay.blogspot.com/2025/06/minefunio-ultimate-adventure-games-fun_19.html",
+      "name": "MineFun.io"
+    },
+    "button3": {
+      "coinValue": 200,
+      "imageUrl": "https://img.poki-cdn.com/cdn-cgi/image/q=78,scq=50,width=1200,height=1200,fit=cover,f=png/859a801e479835e6a25311d96c225a80/sword-masters.jfif",
+      "link": "http://happymoodplay.blogspot.com/2025/06/play-sword-masters-online-free-premium.html",
+      "name": "Sword Masters"
+    },
+    "button4": {
+      "coinValue": 100,
+      "imageUrl": "https://img.poki-cdn.com/cdn-cgi/image/q=78,scq=50,width=1200,height=1200,fit=cover,f=png/ada621ee3a066ab12be8484017fd6297/gold-digger-frvr.png",
+      "link": "http://happymoodplay.blogspot.com/2025/06/play-gold-digger-frvr-online-free_19.html",
+      "name": "Gold Digger FRVR"
+    },
+    "button5": {
+      "coinValue": 10,
+      "imageUrl": "https://img.poki-cdn.com/cdn-cgi/image/q=78,scq=50,width=1200,height=1200,fit=cover,f=png/1fdaee6c03ca147819b5387958e6592c/apple-knight-mini-dungeons.png",
+      "link": "http://happymoodplay.blogspot.com/2025/06/apple-knight--mini-dungeons.html",
+      "name": "Apple Knight: Mini Dungeons"
+    },
+    "button6": {
+      "coinValue": 200,
+      "imageUrl": "https://img.poki-cdn.com/cdn-cgi/image/q=78,scq=50,width=1200,height=1200,fit=cover,f=png/a59703c960494998f380844a00468c67/escape-from-school.png",
+      "link": "http://happymoodplay.blogspot.com/2025/06/escape-from-school.html",
+      "name": "Escape From School"
+    },
+    "button7": {
+      "coinValue": 150,
+      "imageUrl": "https://img.poki-cdn.com/cdn-cgi/image/q=78,scq=50,width=1200,height=1200,fit=cover,f=png/a70806db5d8812ac66118f99dc8e590c/tribals-io.png",
+      "link": "http://happymoodplay.blogspot.com/2025/06/tribals-io.html",
+      "name": "Tribals.io"
+    },
+    "button8": {
+      "coinValue": 200,
+      "imageUrl": "https://img.poki-cdn.com/cdn-cgi/image/q=78,scq=50,width=1200,height=1200,fit=cover,f=png/84ed40b8ade4e9f5bbf1fa7b3acef3a3/lurkers-io.png",
+      "link": "http://happymoodplay.blogspot.com/2025/06/lurkers-io.html",
+      "name": "Lurkers.io"
+    },
+    "button9": {
+      "coinValue": 200,
+      "imageUrl": "https://img.poki-cdn.com/cdn-cgi/image/q=78,scq=50,width=1200,height=1200,fit=cover,f=png/c91721e137c41216ce295f3fba7269da/12-mini-battles-2.png",
+      "link": "http://happymoodplay.blogspot.com/2025/06/12-mini-battles-2.html",
+      "name": "12 Mini Battles 2"
+    },
+    "button10": {
+      "coinValue": 10,
+      "imageUrl": "https://img.poki-cdn.com/cdn-cgi/image/q=78,scq=50,width=1200,height=1200,fit=cover,f=png/d710fe8830d731072485a582881605ea/temple-of-boom.png",
+      "link": "http://happymoodplay.blogspot.com/2025/06/temple-of-boom.html",
+      "name": "Temple of Boom"
+    },
+    "button11": {
+      "coinValue": 150,
+      "imageUrl": "https://img.poki-cdn.com/cdn-cgi/image/q=78,scq=50,width=1200,height=1200,fit=cover,f=png/65ef45bbe9b3f9cc673321883b8f8332/marble-run-3d.png",
+      "link": "http://happymoodplay.blogspot.com/2025/06/marble-run-3d.html",
+      "name": "Marble Run 3D"
+    },
+    "button12": {
+      "coinValue": 200,
+      "imageUrl": "https://img.poki-cdn.com/cdn-cgi/image/q=78,scq=50,width=1200,height=1200,fit=cover,f=png/ea575cd4-dfc3-4892-9bfd-25a406061b3e/12-minibattles.png",
+      "link": "http://happymoodplay.blogspot.com/2025/06/12-minibattles.html",
+      "name": "12 MiniBattles"
+    },
+    "button13": {
+      "coinValue": 50,
+      "imageUrl": "https://img.poki-cdn.com/cdn-cgi/image/q=78,scq=50,width=1200,height=1200,fit=cover,f=png/4b2e9b6b7a843a2a911581bd3fec2bb6/stick-rush.png",
+      "link": "http://happymoodplay.blogspot.com/2025/06/stick-rush.html",
+      "name": "Stick Rush"
+    },
+    "button14": {
+      "coinValue": 200,
+      "imageUrl": "https://img.poki-cdn.com/cdn-cgi/image/q=78,scq=50,width=1200,height=1200,fit=cover,f=png/0c3d1446c6992c2b88a9498de054688b/level-devil.png",
+      "link": "http://happymoodplay.blogspot.com/2025/06/level-devil.html",
+      "name": "Level Devil"
+    },
+    "button15": {
+      "coinValue": 200,
+      "imageUrl": "https://img.poki-cdn.com/cdn-cgi/image/q=78,scq=50,width=1200,height=1200,fit=cover,f=png/ce219d03b723f2d07e4d3c00d1cd104a/zombie-rush.png",
+      "link": "http://happymoodplay.blogspot.com/2025/06/zombie-rush.html",
+      "name": "Zombie Rush"
+    },
+    "button16": {
+      "coinValue": 200,
+      "imageUrl": "https://img.poki-cdn.com/cdn-cgi/image/q=78,scq=50,width=1200,height=1200,fit=cover,f=png/7e6806e76a4f8ad5b7a8ab8d1d42a74b/getaway-shootout.png",
+      "link": "http://happymoodplay.blogspot.com/2025/06/getaway-shootout.html",
+      "name": "Getaway Shootout"
+    },
+    "button17": {
+      "coinValue": 150,
+      "imageUrl": "https://img.poki-cdn.com/cdn-cgi/image/q=78,scq=50,width=1200,height=1200,fit=cover,f=png/9afbd6c4d763d1b92986e59d51780107/snapstyle-dress-up.png",
+      "link": "http://happymoodplay.blogspot.com/2025/06/snapstyle-dress-up.html",
+      "name": "SnapStyle Dress Up"
+    },
+    "button18": {
+      "coinValue": 150,
+      "imageUrl": "https://img.poki-cdn.com/cdn-cgi/image/q=78,scq=50,width=1200,height=1200,fit=cover,f=png/e7087732f52c44df7a16959da593213f/vortellas-dress-up.png",
+      "link": "http://happymoodplay.blogspot.com/2025/06/vortella-s-dress-up.html",
+      "name": "Vortella's Dress Up"
+    },
+    "button19": {
+      "coinValue": 100,
+      "imageUrl": "https://img.poki-cdn.com/cdn-cgi/image/q=78,scq=50,width=1200,height=1200,fit=cover,f=png/3f239cf31af54c85029765d2332a3190/star-blogger-left-or-right.png",
+      "link": "http://happymoodplay.blogspot.com/2025/06/star-blogger--left-or-right.html",
+      "name": "Star Blogger: Left or Right"
+    },
+    "button20": {
+      "coinValue": 50,
+      "imageUrl": "https://img.poki-cdn.com/cdn-cgi/image/q=78,scq=50,width=1200,height=1200,fit=cover,f=png/eb87ef83d9d965af7542bc47f54b38bb/nails-diy-manicure-master.png",
+      "link": "http://happymoodplay.blogspot.com/2025/06/nails-diy--manicure-master.html",
+      "name": "Nails DIY: Manicure Master"
+    },
+    "button21": {
+      "coinValue": 100,
+      "imageUrl": "https://img.poki-cdn.com/cdn-cgi/image/q=78,scq=50,width=1200,height=1200,fit=cover,f=png/8035a77046af8cc7d4af108a4a5b5aa3/cozy-garden-design.png",
+      "link": "http://happymoodplay.blogspot.com/2025/06/cozy-garden-design.html",
+      "name": "Cozy Garden Design"
+    },
+    "button22": {
+      "coinValue": 100,
+      "imageUrl": "https://img.poki-cdn.com/cdn-cgi/image/q=78,scq=50,width=1200,height=1200,fit=cover,f=png/ba4b2c2352cae3e81e1870c0c3a4adab/anime-dress-up.png",
+      "link": "http://happymoodplay.blogspot.com/2025/06/anime-dress-up.html",
+      "name": "Anime Dress Up"
+    },
+    "button23": {
+      "coinValue": 10,
+      "imageUrl": "https://img.poki-cdn.com/cdn-cgi/image/q=78,scq=50,width=1200,height=1200,fit=cover,f=png/c29ad3efff94a85b4a790d09e510ee6f/my-cozy-home.png",
+      "link": "http://happymoodplay.blogspot.com/2025/06/my-cozy-home.html",
+      "name": "My Cozy Home"
+    },
+    "button24": {
+      "coinValue": 50,
+      "imageUrl": "https://img.poki-cdn.com/cdn-cgi/image/q=78,scq=50,width=1200,height=1200,fit=cover,f=png/05594391d018e94c37744742c566e225/funny-haircut.png",
+      "link": "http://happymoodplay.blogspot.com/2025/06/funny-haircut.html",
+      "name": "Funny Haircut"
+    },
+    "button25": {
+      "coinValue": 100,
+      "imageUrl": "https://img.poki-cdn.com/cdn-cgi/image/q=78,scq=50,width=1200,height=1200,fit=cover,f=png/2fd201bc-3c50-4480-8378-e563ab7679c4/tiger-simulator-3d.png",
+      "link": "http://happymoodplay.blogspot.com/2025/06/tiger-simulator-3d.html",
+      "name": "Tiger Simulator 3D"
+    },
+    "button26": {
+      "coinValue": 150,
+      "imageUrl": "https://img.poki-cdn.com/cdn-cgi/image/q=78,scq=50,width=1200,height=1200,fit=cover,f=png/9958fdcfeb226fb25e3abb4c801b6dcb/funny-kitty-care.png",
+      "link": "http://happymoodplay.blogspot.com/2025/06/funny-kitty-care.html",
+      "name": "Funny Kitty Care"
+    },
+    "button27": {
+      "coinValue": 50,
+      "imageUrl": "https://img.poki-cdn.com/cdn-cgi/image/q=78,scq=50,width=1200,height=1200,fit=cover,f=png/e0e7a4585b557d74708f6e8dced9b91e/horse-shoeing.png",
+      "link": "http://happymoodplay.blogspot.com/2025/06/horse-shoeing.html",
+      "name": "Horse Shoeing"
+    },
+    "button28": {
+      "coinValue": 200,
+      "imageUrl": "https://img.poki-cdn.com/cdn-cgi/image/q=78,scq=50,width=1200,height=1200,fit=cover,f=png/ce4a204b6d2cc99d1879da0b2282b0d8/monkey-mart.png",
+      "link": "http://happymoodplay.blogspot.com/2025/06/monkey-mart.html",
+      "name": "Monkey Mart"
+    },
+    "button29": {
+      "coinValue": 200,
+      "imageUrl": "https://img.poki-cdn.com/cdn-cgi/image/q=78,scq=50,width=1200,height=1200,fit=cover,f=png/26f664d7aba082eff9a7d90d2763dc89/animal-obby.png",
+      "link": "http://happymoodplay.blogspot.com/2025/06/animal-obby.html",
+      "name": "Animal Obby"
+    },
+    "button30": {
+      "coinValue": 200,
+      "imageUrl": "https://img.poki-cdn.com/cdn-cgi/image/q=78,scq=50,width=1200,height=1200,fit=cover,f=png/14888420591a935564cdb650b50ec72b/kitty-loves-birds.png",
+      "link": "http://happymoodplay.blogspot.com/2025/06/kitty-loves-birds.html",
+      "name": "Kitty Loves Birds"
+    },
+    "button31": {
+      "coinValue": 50,
+      "imageUrl": "https://img.poki-cdn.com/cdn-cgi/image/q=78,scq=50,width=1200,height=1200,fit=cover,f=png/6b2dbec9cc373ad5732ec704eb0820f2/fish-eat-fish.png",
+      "link": "http://happymoodplay.blogspot.com/2025/06/fish-eat-fish.html",
+      "name": "Fish Eat Fish"
+    },
+    "button32": {
+      "coinValue": 100,
+      "imageUrl": "https://imgs.crazygames.com/getaway-shootout_16x9/20241230044730/getaway-shootout_16x9-cover?metadata=none&quality=40&width=1200&height=630&fit=crop",
+      "link": "http://happymoodplay.blogspot.com/2025/06/getaway-shootout.html",
+      "name": "Getaway Shootout"
+    },
+    "button33": {
+      "coinValue": 150,
+      "imageUrl": "https://imgs.crazygames.com/rooftop-snipers_16x9/20250108040440/rooftop-snipers_16x9-cover?metadata=none&quality=40&width=1200&height=630&fit=crop",
+      "link": "http://happymoodplay.blogspot.com/2025/06/rooftop-snipers.html",
+      "name": "Rooftop Snipers"
+    },
+    "button34": {
+      "coinValue": 10,
+      "imageUrl": "https://imgs.crazygames.com/far-orion-new-worlds/20230817094824/far-orion-new-worlds-cover?metadata=none&quality=40&width=1200&height=630&fit=crop",
+      "link": "http://happymoodplay.blogspot.com/2025/06/far-orion--new-worlds.html",
+      "name": "Far Orion: New Worlds"
+    },
+    "button35": {
+      "coinValue": 10,
+      "imageUrl": "https://imgs.crazygames.com/games/battleship/cover-1576608307836.png?metadata=none&quality=40&width=1200&height=630&fit=crop",
+      "link": "http://happymoodplay.blogspot.com/2025/06/battleship.html",
+      "name": "Battleship"
+    },
+    "button36": {
+      "coinValue": 200,
+      "imageUrl": "https://imgs.crazygames.com/run3b.png?metadata=none&quality=40&width=1200&height=630&fit=crop",
+      "link": "http://happymoodplay.blogspot.com/2025/06/run-3.html",
+      "name": "Run 3"
+    },
+    "button37": {
+      "coinValue": 150,
+      "imageUrl": "https://imgs.crazygames.com/ducklife.png?metadata=none&quality=40&width=1200&height=630&fit=crop",
+      "link": "http://happymoodplay.blogspot.com/2025/06/duck-life.html",
+      "name": "Duck Life"
+    },
+    "button38": {
+      "coinValue": 150,
+      "imageUrl": "https://imgs.crazygames.com/games/jacksmith/cover-1684221283970.png?metadata=none&quality=40&width=1200&height=630&fit=crop",
+      "link": "http://happymoodplay.blogspot.com/2025/06/jacksmith.html",
+      "name": "Jacksmith"
+    },
+    "button39": {
+      "coinValue": 150,
+      "imageUrl": "https://imgs.crazygames.com/games/cuphead/cover-1636962950420.png?metadata=none&quality=40&width=1200&height=630&fit=crop",
+      "link": "http://happymoodplay.blogspot.com/2025/06/cuphead.html",
+      "name": "Cuphead"
+    },
+    "button40": {
+      "coinValue": 50,
+      "imageUrl": "https://imgs.crazygames.com/dead-land-survival_16x9/20250522020745/dead-land-survival_16x9-cover?metadata=none&quality=40&width=1200&height=630&fit=crop",
+      "link": "http://happymoodplay.blogspot.com/2025/06/dead-land--survival.html",
+      "name": "Dead Land: Survival"
+    },
+    "button41": {
+      "coinValue": 200,
+      "imageUrl": "https://imgs.crazygames.com/castle-craft_16x9/20250203045450/castle-craft_16x9-cover?metadata=none&quality=40&width=1200&height=630&fit=crop",
+      "link": "http://happymoodplay.blogspot.com/2025/06/castle-craft.html",
+      "name": "Castle Craft"
+    },
+    "button42": {
+      "coinValue": 50,
+      "imageUrl": "https://imgs.crazygames.com/magic-world_16x9/20250519040338/magic-world_16x9-cover?metadata=none&quality=40&width=1200&height=630&fit=crop",
+      "link": "http://happymoodplay.blogspot.com/2025/06/magic-world.html",
+      "name": "Magic World"
+    },
+    "button43": {
+      "coinValue": 150,
+      "imageUrl": "https://imgs.crazygames.com/daily-room-escape_16x9/20240214031258/daily-room-escape_16x9-cover?metadata=none&quality=40&width=1200&height=630&fit=crop",
+      "link": "http://happymoodplay.blogspot.com/2025/06/daily-room-escape.html",
+      "name": "Daily Room Escape"
+    },
+    "button44": {
+      "coinValue": 200,
+      "imageUrl": "https://imgs.crazygames.com/doors-online_16x9/20250404094219/doors-online_16x9-cover?metadata=none&quality=40&width=1200&height=630&fit=crop",
+      "link": "http://happymoodplay.blogspot.com/2025/06/doors-online.html",
+      "name": "Doors Online"
+    },
+    "button45": {
+      "coinValue": 150,
+      "imageUrl": "https://imgs.crazygames.com/battle-arena_16x9/20240523085305/battle-arena_16x9-cover?metadata=none&quality=40&width=1200&height=630&fit=crop",
+      "link": "http://happymoodplay.blogspot.com/2025/06/battle-arena.html",
+      "name": "Battle Arena"
+    },
+    "button46": {
+      "coinValue": 10,
+      "imageUrl": "https://imgs.crazygames.com/hexempireb.png?metadata=none&quality=40&width=1200&height=630&fit=crop",
+      "link": "http://happymoodplay.blogspot.com/2025/06/hex-empire.html",
+      "name": "Hex Empire"
+    },
+    "button47": {
+      "coinValue": 100,
+      "imageUrl": "https://imgs.crazygames.com/dark-stones-card-battle-rpg_16x9/20250311085828/dark-stones-card-battle-rpg_16x9-cover?metadata=none&quality=40&width=1200&height=630&fit=crop",
+      "link": "http://happymoodplay.blogspot.com/2025/06/dark-stones--card-battle-rpg.html",
+      "name": "Dark Stones: Card Battle RPG"
+    },
+    "button48": {
+      "coinValue": 50,
+      "imageUrl": "https://imgs.crazygames.com/games/little-alchemy/cover-1655828649117.png?metadata=none&quality=40&width=1200&height=630&fit=crop",
+      "link": "http://happymoodplay.blogspot.com/2025/06/little-alchemy.html",
+      "name": "Little Alchemy"
+    },
+    "button49": {
+      "coinValue": 150,
+      "imageUrl": "https://imgs.crazygames.com/little-alchemy-2/20230130142219/little-alchemy-2-cover?metadata=none&quality=40&width=1200&height=630&fit=crop",
+      "link": "http://happymoodplay.blogspot.com/2025/06/little-alchemy-2.html",
+      "name": "Little Alchemy 2"
+    },
+    "button50": {
+      "coinValue": 150,
+      "imageUrl": "https://imgs.crazygames.com/games/marble-run/thumb-1580986927844.png?metadata=none&quality=40&width=1200&height=630&fit=crop",
+      "link": "http://happymoodplay.blogspot.com/2025/06/marble-run.html",
+      "name": "Marble Run"
+    },
+    "button51": {
+      "coinValue": 150,
+      "imageUrl": "https://imgs.crazygames.com/words-of-wonders_16x9/20231019163757/words-of-wonders_16x9-cover?metadata=none&quality=40&width=1200&height=630&fit=crop",
+      "link": "http://happymoodplay.blogspot.com/2025/06/words-of-wonders.html",
+      "name": "Words of Wonders"
+    },
+    "button52": {
+      "coinValue": 100,
+      "imageUrl": "https://imgs.crazygames.com/games/word-wipe/cover_16x9-1707829913887.png?metadata=none&quality=40&width=1200&height=630&fit=crop",
+      "link": "http://happymoodplay.blogspot.com/2025/06/word-wipe.html",
+      "name": "Word Wipe"
+    },
+    "button53": {
+      "coinValue": 200,
+      "imageUrl": "https://imgs.crazygames.com/games/word-scramble/cover_16x9-1706176392799.png?metadata=none&quality=40&width=1200&height=630&fit=crop",
+      "link": "http://happymoodplay.blogspot.com/2025/06/word-scramble.html",
+      "name": "Word Scramble"
+    },
+    "button54": {
+      "coinValue": 200,
+      "imageUrl": "https://imgs.crazygames.com/words-of-wonders_16x9/20231019163757/words-of-wonders_16x9-cover?metadata=none&quality=40&width=1200&height=630&fit=crop",
+      "link": "http://happymoodplay.blogspot.com/2025/06/word-games.html",
+      "name": "Word Games"
+    },
+    "button55": {
+      "coinValue": 150,
+      "imageUrl": "https://imgs.crazygames.com/mergest-kingdom_16x9/20250203022532/mergest-kingdom_16x9-cover?metadata=none&quality=40&width=1200&height=630&fit=crop",
+      "link": "http://happymoodplay.blogspot.com/2025/06/mergest-kingdom.html",
+      "name": "Mergest Kingdom"
+    }
+  }
+}
